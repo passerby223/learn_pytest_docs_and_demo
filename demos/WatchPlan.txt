@@ -1,1 +1,2 @@
 2020-09-22 Pytest系列（7） - skip、skipif跳过用例
+2020-10-09 Pytest系列（9） - 参数化@pytest.mark.parametrize
