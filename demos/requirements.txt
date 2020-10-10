@@ -1,3 +1,5 @@
+allure-pytest==2.8.18
+allure-python-commons==2.8.18
 apipkg==1.5
 attrs==20.2.0
 execnet==1.7.1
