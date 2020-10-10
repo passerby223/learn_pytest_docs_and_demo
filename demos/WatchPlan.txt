@@ -1,3 +1,4 @@
 2020-09-22 Pytest系列（7） - skip、skipif跳过用例
 2020-10-09 Pytest系列（9） - 参数化@pytest.mark.parametrize
 2020-10-10 Pytest系列（16）- 分布式测试插件之pytest-xdist的详细使用
+2020-10-10 Pytest系列（20）- allure的特性，@allure.step()、allure.attach的详细使用
